@@ -8,6 +8,8 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 2. Crie um __milestone__ para o desenvolvimento de validadores de entradas;
     - Associe o __milestone__ as issues criadas;
     - Apresente imagens que comprove a operação.
+    - ![image](https://user-images.githubusercontent.com/86507721/235020038-a7c7cf06-c113-4e15-ae1c-5ac0eedabef5.png)
+
 
 3. Crie issues para a implementação dos validadores, a partir da issue disponível no repositório.
     - Na issue "Desenvolver validador para entradas" tem a descrição do que precisa ser implementado;
