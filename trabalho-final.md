@@ -14,6 +14,8 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 3. Crie issues para a implementação dos validadores, a partir da issue disponível no repositório.
     - Na issue "Desenvolver validador para entradas" tem a descrição do que precisa ser implementado;
     - Apresente imagens que comprove a criação das issues.
+    - ![image](https://user-images.githubusercontent.com/86507721/235030582-0817703b-2993-40ea-8d64-8e896b52aac9.png)
+
 
 4. Crie a(s) __branch(es)__ para execução das tarefas
     - Instancie localmente a(s) __branch(es)__;
