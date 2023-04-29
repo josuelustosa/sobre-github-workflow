@@ -25,7 +25,7 @@ function validar_cpf(cpf){
 function validar_telefone(telefone){
     if(/[0-9]{2}-([0-9]{8}|[0-9]{9})$/.test(telefone)){
         return true;
-    }else return false;
+    }else return 'digite numero valido porfavor';
 
 }
 
