@@ -25,6 +25,8 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 5. Faça o __push__ dos commits para a(s) __branch(es)__ criadas e abra uma __pull request__
     - Na descrição da __pull request__, informe a issue que está sendo fechada usando #
     - Apresente imagens que comprove a operação.
+    - ![image](https://user-images.githubusercontent.com/86507721/235273536-4d7e9d1f-132b-4f54-a5e9-75b02f8cba85.png)
+
 
 6. Faça o __merge__ da __pull request__ com o __branch master__
     - É esperado que haja conflitos no __merge__; 
