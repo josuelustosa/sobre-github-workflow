@@ -40,6 +40,12 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 
 7. Atualize a branch principal no seu computador;
     - Apresente images que comprove a operação
+    - ![image](https://user-images.githubusercontent.com/86507721/235279303-5e68f2fe-47d2-4801-8cb5-a475ae476394.png)
+
 
 8. Remova a(s) __branch(es)__ criadas tanto localmente quanto no github.
     - Apresente imagens que comprove a operação;
+    - ![image](https://user-images.githubusercontent.com/86507721/235279350-e79ccdb3-4003-4897-8906-7a20726eece1.png)
+    - ![image](https://user-images.githubusercontent.com/86507721/235279445-e65c3f8c-b8b9-4199-a306-9559f0786d4f.png)
+
+
