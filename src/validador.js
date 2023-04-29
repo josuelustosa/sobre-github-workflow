@@ -2,21 +2,34 @@
 
 function validar_email(email)
 {
-  // escreva seu código aqui
+    if(/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/.test(email)){
+        return true;
+    }else return false;
  
 }
   
 function validar_cep(cep){
-  // escreva seu código aqui
+      if(/^[0-9]{5}-[0-9]{3}$/.test(cep)){
+        return true;
+    }else return false;
 
 }
 
 function validar_cpf(cpf){
-// escreva seu código aqui
+    if(/^\d{3}\.\d{3}\.\d{3}\-\d{2}$/.test(cpf)){
+        return true;
+    }else return false;
 
 }
 
 function validar_telefone(telefone){
-  // escreve seu código aqui
+    if(/[0-9]{2}-([0-9]{8}|[0-9]{9})$/.test(telefone)){
+        return true;
+    }else return false;
 
 }
+
+console.log(validar_cpf('053.340.532-00'));
+console.log(validar_email('joao.maciel.br@gmail.com.br'));
+console.log(validar_telefone('92-981016231'));
+console.log(validar_cep('69054-666'));
