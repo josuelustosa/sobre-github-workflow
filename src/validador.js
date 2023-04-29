@@ -29,7 +29,7 @@ function validar_telefone(telefone){
 
 }
 
-console.log(validar_cpf('053.340.532-00'));
+console.log(validar_cpf('053.478.532-00'));
 console.log(validar_email('joao.maciel.br@gmail.com.br'));
 console.log(validar_telefone('92-981016231'));
 console.log(validar_cep('69054-666'));
