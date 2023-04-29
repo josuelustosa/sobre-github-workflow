@@ -25,11 +25,13 @@ function validar_cpf(cpf){
 function validar_telefone(telefone){
     if(/[0-9]{2}-([0-9]{8}|[0-9]{9})$/.test(telefone)){
         return true;
+
     }else return 'telefone invalido';
+
 
 }
 
-console.log(validar_cpf('053.340.532-00'));
+console.log(validar_cpf('053.478.532-00'));
 console.log(validar_email('joao.maciel.br@gmail.com.br'));
 console.log(validar_telefone('92-981016231'));
 console.log(validar_cep('69054-666'));
