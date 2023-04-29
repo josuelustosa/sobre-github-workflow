@@ -22,7 +22,7 @@ else:
   
 #def validar_cpf(cpf):
 exprCpf = re.compile('\d{3}\.\d{3}\.\d{3}\-\d{2}')
-cpf = input("Digite um CPF (utilize pontos e traço): ")
+cpf = input("Digite um CPF válido (utilize pontos e traço): ")
 
 if exprCpf.search(cpf):
   print(f"{cpf} é válido")
